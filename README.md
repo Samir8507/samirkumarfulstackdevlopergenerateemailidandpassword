@@ -1,0 +1,2 @@
+# samirkumarfulstackdevlopergenerateemailidandpassword
+Generating email id and password
